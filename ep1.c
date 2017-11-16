@@ -1,8 +1,7 @@
 /*     1º Exercício Programa da disciplina de Grafos     */ 
 /*												         */ 
 /* Implementação do Algoritmo de Dijkstra                */
-/* Implementado pelos alunos:			                 */
-/* Ana Carolina, Luisa Macedo e Vitor Guimarães          */
+/* Implementado por: Vitor Guimarães	                 */
 /* Data: 05/10/2017									     */
 
 #include <stdio.h>
